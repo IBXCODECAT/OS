@@ -1,2 +1,4 @@
 os.img
 bochsrc.bxrc
+*.bin
+*.img
